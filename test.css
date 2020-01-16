@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  font-family: Montserrat, sans-serif;
+}
+
+html {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: wheat;
+  font-size: 22px;
+}
+html body {
+  background: darkgrey;
+  padding: 100px;
+  border-radius: 50px;
+}
+html h1 {
+  margin: 20px;
+  text-align: center;
+}
+html form {
+  padding: 50px;
+}
+html input, html button {
+  font-size: 22px;
+}
+html ul {
+  list-style: none;
+  text-align: right;
+}
+html ul li {
+  width: 500px;
+  display: flex;
+}
+html ul li input {
+  border: none;
+  background: none;
+  width: 300px;
+}
+html ul li span {
+  width: 100px;
+  padding-right: 20px;
+}
+html ul li button {
+  width: 100px;
+}
+html .total {
+  padding-left: 70px;
+  font-size: 18px;
+}
+html .total h2 {
+  font-size: 24px;
+  font-weight: normal;
+  padding-top: 20px;
+}
+html #liter-input {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+  font-size: 32px;
+}
+
+/*# sourceMappingURL=test.css.map */

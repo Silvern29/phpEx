@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  font-family: Montserrat, sans-serif;
+}
+
+html {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: wheat;
+  font-size: 22px;
+}
+html body {
+  background: darkgrey;
+  padding: 100px;
+  border-radius: 50px;
+}
+html h1 {
+  margin: 20px;
+  text-align: center;
+}
+html h2 {
+  text-align: center;
+}
+html #p2-input {
+  text-align: right;
+}
+html .roll {
+  font-size: 42px;
+}
+html .points {
+  font-size: 56px;
+  padding: 50px;
+  border-radius: 20px;
+  background: grey;
+  color: white;
+}
+html .player {
+  display: flex;
+}
+html form {
+  padding: 50px;
+  text-align: center;
+}
+html input, html button {
+  font-size: 22px;
+}
+html input {
+  border: none;
+  background: none;
+  width: 300px;
+}
+html span {
+  width: 100px;
+  padding-right: 20px;
+}
+html button {
+  width: 100px;
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=test9.css.map */
